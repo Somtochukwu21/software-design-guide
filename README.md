@@ -37,3 +37,5 @@ Effective planning involves identifying main risk factors, exploring alternative
 
 **BROADER CONTEXT**
 It's essential to recognize the limitations of the current design and consider potential future extensions. Additionally, embracing "moonshot" ideas can lead to unexpected insights and innovations during development. This open-minded approach fosters creativity and enhances the software's value.
+
+NNAJI SOMTOCHUKWU
