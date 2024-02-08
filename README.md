@@ -36,6 +36,7 @@ These questions are required to avoid deployment issues.
 Effective planning involves identifying main risk factors, exploring alternative routes if initial plans encounter obstacles, determining essential components versus optional features, and implementing the project in phased stages. By breaking down the project into manageable phases, prioritizing tasks, and continuously evaluating progress, the software development process becomes more structured and adaptable, ensuring resilience to unforeseen challenges while maintaining focus on essential goals.
 
 **BROADER CONTEXT:**
+
 It's essential to recognize the limitations of the current design and consider potential future extensions. Additionally, embracing "moonshot" ideas can lead to unexpected insights and innovations during development. This open-minded approach fosters creativity and enhances the software's value.
 
 NNAJI SOMTOCHUKWU
